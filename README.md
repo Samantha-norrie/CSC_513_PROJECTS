@@ -11,4 +11,4 @@ StackOverflow_And_I lets its users explore [StackOverflow's 2024 developer surve
 
 ### [Bloch Ball (tangible user interface project)](https://github.com/Samantha-norrie/BLOCH_BALL_CSC_513)
 
-The Bloch Ball takes the Bloch sphere, a popular visualization in quantum computing, and turns it into an input device. Users select two states on the Bloch ball and receives the quantum gates needed to travel between them
+The Bloch Ball takes the Bloch sphere, a popular visualization in quantum computing, and turns it into an input device. Users select two states on the Bloch ball and receives the quantum gates needed to travel between them.
